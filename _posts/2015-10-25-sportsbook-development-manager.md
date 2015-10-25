@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Manila, Philippines 2012-2014'
-datePublished: '2015-10-25T14:34:08.277Z'
-dateModified: '2015-10-25T14:32:27.126Z'
+datePublished: '2015-10-25T15:24:35.459Z'
+dateModified: '2015-10-25T15:24:27.903Z'
 title: Sportsbook Development Manager
+sourcePath: _posts/2015-10-25-sportsbook-development-manager.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-25-sportsbook-development-manager.md
-published: true
 url: sportsbook-development-manager/index.html
 _type: Article
 
