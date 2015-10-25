@@ -4,8 +4,16 @@
         <description><![CDATA[myresume]]></description>
         <link>https://thegrid.ai/myresume/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 25 Oct 2015 14:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2015 14:35:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/myresume/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Software Architect]]></title>
+            <description><![CDATA[<article><h1>Software Architect</h1><p>Architect for Betsson's gaming platform. The system runs 10+ sites/brands and handles several hundred thousand customers, 20+ sub systems and provider integrations and 500+ transactions/second.
+</p></article>]]></description>
+            <link>https://thegrid.ai/myresume/software-architect/index.html</link>
+            <guid isPermaLink="false">64f80482-e9cb-4e1e-a387-232da6212935</guid>
+            <pubDate>Sun, 25 Oct 2015 14:34:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sportsbook Development Manager]]></title>
             <description><![CDATA[<article><h1>Sportsbook Development Manager</h1><p>Technical manager and architect for the Sportsbook. Designed a goal architecture to transform a legacy system into a modern scalable platform. Introduced an agile process (SCRUM) for 10 teams with in total 50 developers. Recruited 20+ senior developers, DBA:s etc. Implemented "Continuous Delivery", improving deployments from once per month to 15 times per week.</p></article>]]></description>
