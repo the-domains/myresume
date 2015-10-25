@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[myresume]]></title>
+        <description><![CDATA[myresume]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 25 Oct 2015 14:34:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Software Developer and Architect]]></title>
+            <description><![CDATA[<article><h1>Software Developer and Architect</h1><p>Consultant, working as Software Developer and Architect in several projects in Finance, Retail and Telco. Java and C#</p></article>]]></description>
+            <link>undefinedsoftware-developer-and-architect/index.html</link>
+            <guid isPermaLink="false">b79dd31a-faee-44ee-8ae6-d43f0b84f3e9</guid>
+            <pubDate>Sun, 25 Oct 2015 14:34:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
