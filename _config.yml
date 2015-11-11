@@ -1,6 +1,6 @@
 name: myresume
 favicon: null
-layout_spectrum: 0.3539213831536472
+layout_spectrum: 1
 typography_spectrum: 0.5288323804270476
 title: Jens Lundberg - Resume
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.5181610733270645
+  brandStrength: 0.5
   lightness: 0.9022995743434876
   saturation: 0.9003480314277112
   rhythmicContrast: 0.015098708448931575
