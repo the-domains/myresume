@@ -1,24 +1,34 @@
-name: myresume
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.5288323804270476
-title: Jens Lundberg - Resume
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
   brandStrength: 0.5
   lightness: 0.9022995743434876
   saturation: 0.9003480314277112
   rhythmicContrast: 0.015098708448931575
-purpose: []
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: myresume
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Jens Lundberg - Resume
+content: []
+purpose:
+  - type: contact
+    url: 'mailto:jenslundberg72@gmail.com'
+    label: Contact me
